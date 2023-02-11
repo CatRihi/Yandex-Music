@@ -1,0 +1,20 @@
+.plus-points__wrapper {
+    display: flex;
+    align-items: center;
+    background: linear-gradient(101.67deg,#48cce0 7.24%,#505add 34.12%,#be40c0 62.93%,#fba82b 92.22%);
+    height: 24px;
+    border-radius: 24px;
+    padding: 0 8px;
+    cursor: pointer;
+    line-height: 14px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.link-secondary:hover{
+    color: #ffc107!important;
+}
+.active-link{
+    color: #212529!important;
+    border-bottom: 4px solid #ffc107!important;
+}

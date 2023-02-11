@@ -1,0 +1,10 @@
+.card-img-top {
+    height: 18rem;
+    object-fit: cover;
+}
+.card-text {
+    color: #212529;
+}
+.card:hover {
+    outline: 3px solid #ffc107;
+}
