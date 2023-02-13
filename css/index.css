@@ -8,3 +8,8 @@
 .card:hover {
     outline: 3px solid #ffc107;
 }
+@media (max-width:991.2px) {
+    .flex-wrap {
+        justify-content: center;
+    }
+}

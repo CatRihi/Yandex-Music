@@ -18,3 +18,10 @@
     color: #212529!important;
     border-bottom: 4px solid #ffc107!important;
 }
+
+@media (max-width:1199.8px) {
+    .search-width {
+        width: 110px;
+    }
+
+}
