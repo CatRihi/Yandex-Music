@@ -42,31 +42,24 @@ let albums = [
         "year": '2022',
         tracks: [
             {
-                'title': '???',
-                'author': '???',
-                'time': '???',
-                src: 'music/',
+                'title': 'Alla what (parody)',
+                'author': 'Christopher Christofi',
+                'time': '0:31',
+                src: 'music/AllaWhatParody.mp3',
                 isPlaying: false
             },
             {
-                'title': '???',
+                'title': 'Ask Rufus',
                 'author': '???',
-                'time': '???',
-                src: 'music/',
+                'time': '0:16',
+                src: 'music/AskRufus.mp3',
                 isPlaying: false
             },
             {
-                'title': '???',
+                'title': 'AskRufus',
                 'author': '???',
-                'time': '???',
-                src: 'music/',
-                isPlaying: false
-            },
-            {
-                'title': '???',
-                'author': '???',
-                'time': '???',
-                src: 'music/',
+                'time': '3:46',
+                src: 'music/AskRufus.mp3',
                 isPlaying: false
             }
         ]
@@ -78,45 +71,45 @@ let albums = [
         "year": '2019',
         tracks: [
             {
-                'title': '???',
+                'title': 'Away In A Manger Edm',
                 'author': '???',
-                'time': '???',
-                src: 'music/',
+                'time': '2:46',
+                src: 'music/AwayInAMangerEDM.mp3',
                 isPlaying: false
             },
             {
-                'title': '???',
+                'title': 'Continuum',
                 'author': '???',
-                'time': '???',
-                src: 'music/',
+                'time': '5:05',
+                src: 'music/Continuum.mp3',
                 isPlaying: false
             },
             {
-                'title': '???',
+                'title': 'DogHouse',
                 'author': '???',
-                'time': '???',
-                src: 'music/',
+                'time': '3:20',
+                src: 'music/DogHouse.mp3',
                 isPlaying: false
             },
             {
-                'title': '???',
+                'title': 'EnergyBed2',
                 'author': '???',
-                'time': '???',
-                src: 'music/',
+                'time': '2:48',
+                src: 'music/EnergyBed2.mp3',
                 isPlaying: false
             },
             {
-                'title': '???',
+                'title': 'Falling Sky',
                 'author': '???',
-                'time': '???',
-                src: 'music/',
+                'time': '4:12',
+                src: 'music/FallingSky.mp3',
                 isPlaying: false
             },
             {
-                'title': '???',
+                'title': 'Fun Busy Intro',
                 'author': '???',
-                'time': '???',
-                src: 'music/',
+                'time': '0:27',
+                src: 'music/FunBusyIntro.mp3',
                 isPlaying: false
             }
         ]
@@ -128,31 +121,17 @@ let albums = [
         "year": '2021',
         tracks: [
             {
-                'title': '???',
+                'title': 'Heavy Drums Bass',
                 'author': '???',
-                'time': '???',
-                src: 'music/',
+                'time': '1:58',
+                src: 'music/HeavyDrumsBass.mp3',
                 isPlaying: false
             },
             {
-                'title': '???',
+                'title': 'Heading West',
                 'author': '???',
-                'time': '???',
-                src: 'music/',
-                isPlaying: false
-            },
-            {
-                'title': '???',
-                'author': '???',
-                'time': '???',
-                src: 'music/',
-                isPlaying: false
-            },
-            {
-                'title': '???',
-                'author': '???',
-                'time': '???',
-                src: 'music/',
+                'time': '4:39',
+                src: 'music/HeadingWest.mp3',
                 isPlaying: false
             }
         ]
